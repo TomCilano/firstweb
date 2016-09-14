@@ -10,7 +10,7 @@
 <head>
     <title>Image one</title>
 </head>
-<body style="background-color:mediumslateblue"background="http://il3.picdn.net/shutterstock/videos/14096054/thumb/1.jpg">
+<body link="white" style="background-color:mediumslateblue"background="http://il3.picdn.net/shutterstock/videos/14096054/thumb/1.jpg">
 <center><font color="white"> Page two <a href="pageTwo.jsp">===></a></font></center>
 <div><center><a href="index.jsp">Go back </a> to index.</center></div>
 <center><img src="http://a.disquscdn.com/uploads/mediaembed/images/4062/6308/original.jpg"></center>
