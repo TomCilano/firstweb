@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Index</title>
   </head>
   <h1><center><font color="WHITE"><font FACE="Helvetica">Cool Images</font></font></center></h1>
   <body link="white" style="background-color:mediumslateblue"background="http://il3.picdn.net/shutterstock/videos/14096054/thumb/1.jpg">

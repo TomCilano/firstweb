@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Image one</title>
+    <title>1</title>
 </head>
 <body link="white" style="background-color:mediumslateblue"background="http://il3.picdn.net/shutterstock/videos/14096054/thumb/1.jpg">
 <center><font color="white"> Page two <a href="pageTwo.jsp">===></a></font></center>
